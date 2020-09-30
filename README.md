@@ -1,4 +1,4 @@
-Laravel-Jobs
+Laravel-Jobs-An Amazing Project
 ============
 
 A Laravel 4 package for adding jobs listings to a website
